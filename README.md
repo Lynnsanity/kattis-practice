@@ -12,13 +12,11 @@ This repo was created so I can keep track of my progress in learning python in a
 In this repo you will find difficulty levels(based on Kattis levels) and different problems
 labeled by their actual problem name.
 
-* Trivial
 * Easy
 * Medium
 * Hard
 
-## Naming of Problem In Progress/Solution
+## Ranking
 
-I named the file I would be working on to be either inprogress.py or solution.py if i finished.
-
+Here's my [profile](https://open.kattis.com/users/lynnsanity)
 
